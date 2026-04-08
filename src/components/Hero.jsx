@@ -1,7 +1,7 @@
 import React, { useRef, useState } from 'react';
 import { TypeAnimation } from 'react-type-animation';
 import { motion, useSpring, useTransform } from 'framer-motion';
-import resume from "../assets/resume.pdf";
+import resume from "../assets/Resume.pdf";
 
 const Hero = () => {
   const ref = useRef(null);
