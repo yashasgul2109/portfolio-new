@@ -1,6 +1,6 @@
 import React from 'react';
-import gtaImg from "../assets/Images/GTA6.png";
-import portfolioImg from "../assets/Images/Portfolio.png";
+import gtaImg from "../assets/Images/gta6.png";
+import portfolioImg from "../assets/Images/portfolio.png";
 import { motion } from 'framer-motion';
 import { Github, ExternalLink } from 'lucide-react';
 
