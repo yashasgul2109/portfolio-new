@@ -7,12 +7,8 @@ const skillCategories = [
     skills: ['React.js', 'JavaScript (ES6+)', 'Tailwind CSS', 'Framer Motion', 'HTML5/CSS3', 'Responsive UI']
   },
   {
-    title: 'Algorithms & Logic',
-    skills: ['Graph Traversals (BFS/DFS)', 'Trees (BST)', 'Linked Lists', 'Hashing', 'Recursion', 'Dynamic Programming']
-  },
-  {
     title: 'Developer Tools',
-    skills: ['Git & GitHub', 'VS Code', 'Vite', 'LeetCode', 'Codeforces']
+    skills: ['Git & GitHub', 'VS Code', 'Vite']
   },
   {
     title: 'Core Fundamentals',
